@@ -17,7 +17,7 @@ font-family: 'Poppins', sans-serif;
 }
 .logo
 {
-    padding-left: 60px;
+    padding-left: 60vw;
 }
 
 nav{
@@ -296,7 +296,7 @@ ul{
 }
 .app-logo img{
 
-    width:140px;
+    width:140vw;
 }
 .footer hr{
     border: none;
